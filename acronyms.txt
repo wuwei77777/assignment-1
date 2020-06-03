@@ -74,4 +74,5 @@
 72.	SaaS
 73.	SIM
 74.	C2C  
-75.	B2B  
+75.	B2B Business to Business
+  Company doing business with each other
