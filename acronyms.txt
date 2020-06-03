@@ -3,7 +3,7 @@
 2.	ROM   Read-Only Memory
   Memory that can be read but not modified
 3.	CPU	
-4.	MB 	
+4.	MB Megabyte is equal to 1,000 kilobytes and precedes the gigabyte unit of measurement.
 5.	GB 	
 6.	TB 	
 7.	PB	
