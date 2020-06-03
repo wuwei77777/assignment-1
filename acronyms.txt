@@ -1,5 +1,7 @@
-1.	RAM 	
-2.	ROM	
+1.	RAM 	Random Access Memory
+  Stores information for immediate access
+2.	ROM   Read-Only Memory
+  Memory that can be read but not modified
 3.	CPU	
 4.	MB 	
 5.	GB 	
