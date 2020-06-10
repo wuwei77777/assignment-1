@@ -3,7 +3,7 @@
 2.	ROM   Read-Only Memory
   Memory that can be read but not modified
 3.	CPU	
-4.	MB 	
+4.	MB  Megabyte	unit of data storage capacity that is roughly equivalent to 1 million bytes
 5.	GB 	
 6.	TB 	
 7.	PB	
@@ -25,7 +25,7 @@
 23.	HTTP 	
 24.	BYOD 	
 25.	URL 	
-26.	WWW 	
+26.	WWW 	World Wide Web System for displaying text, graphics, and audio retrieved over the Internet
 27.	SSD 	
 28.	I/O 	
 29.	NAS	
@@ -48,7 +48,7 @@
 46.	CSS 	
 47.	MODEM 	
 48.	ASCII	
-49.	VOIP	
+49.	VOIP	Voice over Internet Protocol  It is the technology that converts your voice into a digital signal
 50.	DSL	
 51.	FAQ	
 52.	OOP	
